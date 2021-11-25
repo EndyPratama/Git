@@ -1,7 +1,5 @@
 # Git
 
-# Git
-
 ## Git initialization
 
 Let's Learn Git
