@@ -135,7 +135,10 @@ Using the git log command, you or someone else can see the commits.
 
 With git log, can I see both the commit message and the changes made?
 
-To see the changes, you can use ```git git log -p ```
+To see the changes, you can use 
+```git 
+git log -p 
+```
 With the up and down arrows, you can scroll through the changes. To exit, simply press the Q key.
 
 [Indonesia]
@@ -274,5 +277,8 @@ Dengan menggunakan command git log, kamu atau orang lain dapat melihat commit-co
 
 Dengan git log, bisakah aku melihat kedua pesan commit dan perubahan-perubahan yang dibuat?
 
-Untuk melihat perubahan-perubahan, kamu bisa menggunakan ```git git log -p ```
+Untuk melihat perubahan-perubahan, kamu bisa menggunakan 
+```git 
+git log -p 
+```
 Dengan panah atas dan bawah, kamu dapat bergulir ke seluruh perubahan. Untuk keluar, cukup tekan tombol Q.
